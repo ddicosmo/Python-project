@@ -1,2 +1,2 @@
 # Python-project
-Repository for Python project
+Repository for Python Project
